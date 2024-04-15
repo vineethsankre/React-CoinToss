@@ -54,16 +54,6 @@ The app must have the following functionalities
 
 </details>
 
-<details>
-<summary>Implementation Files</summary>
-<br/>
-
-Use these files to complete the implementation:
-
-- `src/components/CoinToss/index.js`
-- `src/components/CoinToss/index.css`
-</details>
-
 ### Important Note
 
 <details>
