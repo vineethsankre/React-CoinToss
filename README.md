@@ -85,8 +85,5 @@ The app must have the following functionalities
 <div style="background-color: #e2a139; width: 150px; padding: 10px; color: white">Hex: #e2a139</div>
 <div style="background-color: #f9d423; width: 150px; padding: 10px; color: black">Hex: #f9d423</div>
 <div style="background-color: #ffffff; width: 150px; padding: 10px; color: black">Hex: #ffffff</div>
-<div style="background-color: #a35200; width: 150px; padding: 10px; color: white">Hex: #a35200</div>
-<div style="background-color: #334155; width: 150px; padding: 10px; color: white">Hex: #334155</div>
-
 
 
