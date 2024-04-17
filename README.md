@@ -77,10 +77,6 @@ The app must have the following functionalities
 
 </details>
 
-<details>
-<summary>Colors</summary>
-
-<br/>
 
 
 
