@@ -54,19 +54,6 @@ The app must have the following functionalities
 
 </details>
 
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- The toss result image should have the alt attribute value as **toss result**
-
-</details>
-
 ### Resources
 
 <details>
